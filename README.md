@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
