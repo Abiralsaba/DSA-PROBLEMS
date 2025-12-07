@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0175-combine-two-tables) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
