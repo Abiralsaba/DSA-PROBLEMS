@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -40,4 +41,9 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
