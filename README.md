@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
