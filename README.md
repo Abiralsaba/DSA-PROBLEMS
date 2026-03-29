@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0068-text-justification](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0008-string-to-integer-atoi](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+| [0068-text-justification](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0068-text-justification) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
