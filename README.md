@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0010-regular-expression-matching) |
+| [0060-permutation-sequence](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0060-permutation-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0007-reverse-integer) |
+| [0060-permutation-sequence](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
