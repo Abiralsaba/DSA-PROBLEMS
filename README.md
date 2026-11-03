@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0068-text-justification) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
