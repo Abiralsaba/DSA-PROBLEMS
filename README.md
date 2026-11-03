@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
