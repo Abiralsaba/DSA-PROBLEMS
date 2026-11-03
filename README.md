@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0053-maximum-subarray](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
