@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0004-median-of-two-sorted-arrays](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0068-text-justification](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
