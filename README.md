@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0053-maximum-subarray) |
 ## String
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Abiralsaba/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
